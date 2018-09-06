@@ -1,0 +1,9 @@
+[package]
+name = "cargo-scriptify"
+version = "0.1.0"
+authors = ["Tim Ryan <id@timryan.org>"]
+
+[dependencies]
+failure = "0.1"
+structopt = "0.2"
+commandspec = "*"
